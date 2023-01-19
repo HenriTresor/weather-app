@@ -1,0 +1,1502 @@
+{
+        "cod": "200",
+        "message": 0,
+        "cnt": 40,
+        "list": [
+                {
+                        "dt": 1674129600,
+                        "main": {
+                                "temp": 277.66,
+                                "feels_like": 276.11,
+                                "temp_min": 277.66,
+                                "temp_max": 278.15,
+                                "pressure": 1018,
+                                "sea_level": 1018,
+                                "grnd_level": 1017,
+                                "humidity": 72,
+                                "temp_kf": -0.49
+                        },
+                        "weather": [
+                                {
+                                        "id": 800,
+                                        "main": "Clear",
+                                        "description": "clear sky",
+                                        "icon": "01n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 0
+                        },
+                        "wind": {
+                                "speed": 1.85,
+                                "deg": 294,
+                                "gust": 4.4
+                        },
+                        "visibility": 10000,
+                        "pop": 0.09,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-19 12:00:00"
+                },
+                {
+                        "dt": 1674140400,
+                        "main": {
+                                "temp": 277.52,
+                                "feels_like": 277.52,
+                                "temp_min": 277.23,
+                                "temp_max": 277.52,
+                                "pressure": 1018,
+                                "sea_level": 1018,
+                                "grnd_level": 1016,
+                                "humidity": 78,
+                                "temp_kf": 0.29
+                        },
+                        "weather": [
+                                {
+                                        "id": 501,
+                                        "main": "Rain",
+                                        "description": "moderate rain",
+                                        "icon": "10d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 33
+                        },
+                        "wind": {
+                                "speed": 0.47,
+                                "deg": 243,
+                                "gust": 0.41
+                        },
+                        "visibility": 5114,
+                        "pop": 0.97,
+                        "rain": {
+                                "3h": 4.66
+                        },
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-19 15:00:00"
+                },
+                {
+                        "dt": 1674151200,
+                        "main": {
+                                "temp": 277.59,
+                                "feels_like": 275.47,
+                                "temp_min": 277.56,
+                                "temp_max": 277.59,
+                                "pressure": 1015,
+                                "sea_level": 1015,
+                                "grnd_level": 1013,
+                                "humidity": 85,
+                                "temp_kf": 0.03
+                        },
+                        "weather": [
+                                {
+                                        "id": 501,
+                                        "main": "Rain",
+                                        "description": "moderate rain",
+                                        "icon": "10d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 67
+                        },
+                        "wind": {
+                                "speed": 2.41,
+                                "deg": 151,
+                                "gust": 3.66
+                        },
+                        "visibility": 8780,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 4.09
+                        },
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-19 18:00:00"
+                },
+                {
+                        "dt": 1674162000,
+                        "main": {
+                                "temp": 278.21,
+                                "feels_like": 276.39,
+                                "temp_min": 278.21,
+                                "temp_max": 278.21,
+                                "pressure": 1012,
+                                "sea_level": 1012,
+                                "grnd_level": 1011,
+                                "humidity": 95,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 501,
+                                        "main": "Rain",
+                                        "description": "moderate rain",
+                                        "icon": "10d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 2.2,
+                                "deg": 116,
+                                "gust": 4.34
+                        },
+                        "visibility": 6225,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 7.46
+                        },
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-19 21:00:00"
+                },
+                {
+                        "dt": 1674172800,
+                        "main": {
+                                "temp": 278.43,
+                                "feels_like": 275.54,
+                                "temp_min": 278.43,
+                                "temp_max": 278.43,
+                                "pressure": 1008,
+                                "sea_level": 1008,
+                                "grnd_level": 1008,
+                                "humidity": 96,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 501,
+                                        "main": "Rain",
+                                        "description": "moderate rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 3.69,
+                                "deg": 72,
+                                "gust": 7.54
+                        },
+                        "visibility": 10000,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 3.73
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-20 00:00:00"
+                },
+                {
+                        "dt": 1674183600,
+                        "main": {
+                                "temp": 278.48,
+                                "feels_like": 275.06,
+                                "temp_min": 278.48,
+                                "temp_max": 278.48,
+                                "pressure": 1004,
+                                "sea_level": 1004,
+                                "grnd_level": 1004,
+                                "humidity": 95,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 500,
+                                        "main": "Rain",
+                                        "description": "light rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 4.66,
+                                "deg": 58,
+                                "gust": 8.64
+                        },
+                        "visibility": 10000,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 2.86
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-20 03:00:00"
+                },
+                {
+                        "dt": 1674194400,
+                        "main": {
+                                "temp": 278.58,
+                                "feels_like": 276.03,
+                                "temp_min": 278.58,
+                                "temp_max": 278.58,
+                                "pressure": 1003,
+                                "sea_level": 1003,
+                                "grnd_level": 1002,
+                                "humidity": 96,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 500,
+                                        "main": "Rain",
+                                        "description": "light rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 3.21,
+                                "deg": 7,
+                                "gust": 5.39
+                        },
+                        "visibility": 10000,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 0.7
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-20 06:00:00"
+                },
+                {
+                        "dt": 1674205200,
+                        "main": {
+                                "temp": 278.68,
+                                "feels_like": 278.68,
+                                "temp_min": 278.68,
+                                "temp_max": 278.68,
+                                "pressure": 1003,
+                                "sea_level": 1003,
+                                "grnd_level": 1002,
+                                "humidity": 95,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 500,
+                                        "main": "Rain",
+                                        "description": "light rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 0.56,
+                                "deg": 249,
+                                "gust": 1.13
+                        },
+                        "visibility": 10000,
+                        "pop": 0.5,
+                        "rain": {
+                                "3h": 0.26
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-20 09:00:00"
+                },
+                {
+                        "dt": 1674216000,
+                        "main": {
+                                "temp": 280.39,
+                                "feels_like": 276.82,
+                                "temp_min": 280.39,
+                                "temp_max": 280.39,
+                                "pressure": 1003,
+                                "sea_level": 1003,
+                                "grnd_level": 1002,
+                                "humidity": 74,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 99
+                        },
+                        "wind": {
+                                "speed": 6.19,
+                                "deg": 268,
+                                "gust": 10.51
+                        },
+                        "visibility": 10000,
+                        "pop": 0.14,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-20 12:00:00"
+                },
+                {
+                        "dt": 1674226800,
+                        "main": {
+                                "temp": 280.27,
+                                "feels_like": 276.41,
+                                "temp_min": 280.27,
+                                "temp_max": 280.27,
+                                "pressure": 1005,
+                                "sea_level": 1005,
+                                "grnd_level": 1004,
+                                "humidity": 63,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 802,
+                                        "main": "Clouds",
+                                        "description": "scattered clouds",
+                                        "icon": "03d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 28
+                        },
+                        "wind": {
+                                "speed": 6.94,
+                                "deg": 268,
+                                "gust": 13.05
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-20 15:00:00"
+                },
+                {
+                        "dt": 1674237600,
+                        "main": {
+                                "temp": 279.8,
+                                "feels_like": 275.74,
+                                "temp_min": 279.8,
+                                "temp_max": 279.8,
+                                "pressure": 1005,
+                                "sea_level": 1005,
+                                "grnd_level": 1004,
+                                "humidity": 77,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 500,
+                                        "main": "Rain",
+                                        "description": "light rain",
+                                        "icon": "10d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 54
+                        },
+                        "wind": {
+                                "speed": 7.14,
+                                "deg": 281,
+                                "gust": 12.53
+                        },
+                        "visibility": 10000,
+                        "pop": 0.2,
+                        "rain": {
+                                "3h": 0.11
+                        },
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-20 18:00:00"
+                },
+                {
+                        "dt": 1674248400,
+                        "main": {
+                                "temp": 280.38,
+                                "feels_like": 276.65,
+                                "temp_min": 280.38,
+                                "temp_max": 280.38,
+                                "pressure": 1007,
+                                "sea_level": 1007,
+                                "grnd_level": 1007,
+                                "humidity": 66,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 6.64,
+                                "deg": 284,
+                                "gust": 11.75
+                        },
+                        "visibility": 10000,
+                        "pop": 0.04,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-20 21:00:00"
+                },
+                {
+                        "dt": 1674259200,
+                        "main": {
+                                "temp": 279.41,
+                                "feels_like": 275.8,
+                                "temp_min": 279.41,
+                                "temp_max": 279.41,
+                                "pressure": 1011,
+                                "sea_level": 1011,
+                                "grnd_level": 1010,
+                                "humidity": 67,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 5.61,
+                                "deg": 292,
+                                "gust": 10.69
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-21 00:00:00"
+                },
+                {
+                        "dt": 1674270000,
+                        "main": {
+                                "temp": 278.31,
+                                "feels_like": 274.72,
+                                "temp_min": 278.31,
+                                "temp_max": 278.31,
+                                "pressure": 1013,
+                                "sea_level": 1013,
+                                "grnd_level": 1012,
+                                "humidity": 67,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 803,
+                                        "main": "Clouds",
+                                        "description": "broken clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 64
+                        },
+                        "wind": {
+                                "speed": 4.92,
+                                "deg": 289,
+                                "gust": 9.53
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-21 03:00:00"
+                },
+                {
+                        "dt": 1674280800,
+                        "main": {
+                                "temp": 277.62,
+                                "feels_like": 273.99,
+                                "temp_min": 277.62,
+                                "temp_max": 277.62,
+                                "pressure": 1014,
+                                "sea_level": 1014,
+                                "grnd_level": 1013,
+                                "humidity": 67,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 803,
+                                        "main": "Clouds",
+                                        "description": "broken clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 57
+                        },
+                        "wind": {
+                                "speed": 4.66,
+                                "deg": 300,
+                                "gust": 8.11
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-21 06:00:00"
+                },
+                {
+                        "dt": 1674291600,
+                        "main": {
+                                "temp": 276.4,
+                                "feels_like": 272.1,
+                                "temp_min": 276.4,
+                                "temp_max": 276.4,
+                                "pressure": 1015,
+                                "sea_level": 1015,
+                                "grnd_level": 1015,
+                                "humidity": 63,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 803,
+                                        "main": "Clouds",
+                                        "description": "broken clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 80
+                        },
+                        "wind": {
+                                "speed": 5.39,
+                                "deg": 305,
+                                "gust": 9.37
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-21 09:00:00"
+                },
+                {
+                        "dt": 1674302400,
+                        "main": {
+                                "temp": 275.06,
+                                "feels_like": 270.7,
+                                "temp_min": 275.06,
+                                "temp_max": 275.06,
+                                "pressure": 1018,
+                                "sea_level": 1018,
+                                "grnd_level": 1017,
+                                "humidity": 65,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 802,
+                                        "main": "Clouds",
+                                        "description": "scattered clouds",
+                                        "icon": "03n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 46
+                        },
+                        "wind": {
+                                "speed": 4.85,
+                                "deg": 308,
+                                "gust": 8.68
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-21 12:00:00"
+                },
+                {
+                        "dt": 1674313200,
+                        "main": {
+                                "temp": 276.24,
+                                "feels_like": 272.34,
+                                "temp_min": 276.24,
+                                "temp_max": 276.24,
+                                "pressure": 1020,
+                                "sea_level": 1020,
+                                "grnd_level": 1019,
+                                "humidity": 59,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 800,
+                                        "main": "Clear",
+                                        "description": "clear sky",
+                                        "icon": "01d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 9
+                        },
+                        "wind": {
+                                "speed": 4.55,
+                                "deg": 340,
+                                "gust": 5.47
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-21 15:00:00"
+                },
+                {
+                        "dt": 1674324000,
+                        "main": {
+                                "temp": 278.34,
+                                "feels_like": 276.54,
+                                "temp_min": 278.34,
+                                "temp_max": 278.34,
+                                "pressure": 1020,
+                                "sea_level": 1020,
+                                "grnd_level": 1019,
+                                "humidity": 51,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 801,
+                                        "main": "Clouds",
+                                        "description": "few clouds",
+                                        "icon": "02d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 14
+                        },
+                        "wind": {
+                                "speed": 2.2,
+                                "deg": 356,
+                                "gust": 3.08
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-21 18:00:00"
+                },
+                {
+                        "dt": 1674334800,
+                        "main": {
+                                "temp": 278.99,
+                                "feels_like": 278.03,
+                                "temp_min": 278.99,
+                                "temp_max": 278.99,
+                                "pressure": 1021,
+                                "sea_level": 1021,
+                                "grnd_level": 1020,
+                                "humidity": 51,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 85
+                        },
+                        "wind": {
+                                "speed": 1.52,
+                                "deg": 25,
+                                "gust": 2.09
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-21 21:00:00"
+                },
+                {
+                        "dt": 1674345600,
+                        "main": {
+                                "temp": 278.52,
+                                "feels_like": 278.52,
+                                "temp_min": 278.52,
+                                "temp_max": 278.52,
+                                "pressure": 1023,
+                                "sea_level": 1023,
+                                "grnd_level": 1022,
+                                "humidity": 54,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 91
+                        },
+                        "wind": {
+                                "speed": 0.83,
+                                "deg": 65,
+                                "gust": 1.08
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-22 00:00:00"
+                },
+                {
+                        "dt": 1674356400,
+                        "main": {
+                                "temp": 278.32,
+                                "feels_like": 278.32,
+                                "temp_min": 278.32,
+                                "temp_max": 278.32,
+                                "pressure": 1023,
+                                "sea_level": 1023,
+                                "grnd_level": 1023,
+                                "humidity": 55,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 0.88,
+                                "deg": 219,
+                                "gust": 1.65
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-22 03:00:00"
+                },
+                {
+                        "dt": 1674367200,
+                        "main": {
+                                "temp": 277.91,
+                                "feels_like": 277.91,
+                                "temp_min": 277.91,
+                                "temp_max": 277.91,
+                                "pressure": 1022,
+                                "sea_level": 1022,
+                                "grnd_level": 1022,
+                                "humidity": 58,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 0.6,
+                                "deg": 180,
+                                "gust": 1.25
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-22 06:00:00"
+                },
+                {
+                        "dt": 1674378000,
+                        "main": {
+                                "temp": 277.1,
+                                "feels_like": 275.31,
+                                "temp_min": 277.1,
+                                "temp_max": 277.1,
+                                "pressure": 1023,
+                                "sea_level": 1023,
+                                "grnd_level": 1022,
+                                "humidity": 64,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 1.99,
+                                "deg": 194,
+                                "gust": 3.23
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-22 09:00:00"
+                },
+                {
+                        "dt": 1674388800,
+                        "main": {
+                                "temp": 276.61,
+                                "feels_like": 273.6,
+                                "temp_min": 276.61,
+                                "temp_max": 276.61,
+                                "pressure": 1023,
+                                "sea_level": 1023,
+                                "grnd_level": 1023,
+                                "humidity": 69,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 3.27,
+                                "deg": 197,
+                                "gust": 6.78
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-22 12:00:00"
+                },
+                {
+                        "dt": 1674399600,
+                        "main": {
+                                "temp": 277.74,
+                                "feels_like": 275.32,
+                                "temp_min": 277.74,
+                                "temp_max": 277.74,
+                                "pressure": 1023,
+                                "sea_level": 1023,
+                                "grnd_level": 1022,
+                                "humidity": 65,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 2.8,
+                                "deg": 176,
+                                "gust": 5.24
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-22 15:00:00"
+                },
+                {
+                        "dt": 1674410400,
+                        "main": {
+                                "temp": 279.28,
+                                "feels_like": 275.95,
+                                "temp_min": 279.28,
+                                "temp_max": 279.28,
+                                "pressure": 1019,
+                                "sea_level": 1019,
+                                "grnd_level": 1019,
+                                "humidity": 61,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 4.89,
+                                "deg": 153,
+                                "gust": 7.03
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-22 18:00:00"
+                },
+                {
+                        "dt": 1674421200,
+                        "main": {
+                                "temp": 279.47,
+                                "feels_like": 276.29,
+                                "temp_min": 279.47,
+                                "temp_max": 279.47,
+                                "pressure": 1018,
+                                "sea_level": 1018,
+                                "grnd_level": 1017,
+                                "humidity": 68,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 4.67,
+                                "deg": 167,
+                                "gust": 9.55
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-22 21:00:00"
+                },
+                {
+                        "dt": 1674432000,
+                        "main": {
+                                "temp": 279.61,
+                                "feels_like": 276.74,
+                                "temp_min": 279.61,
+                                "temp_max": 279.61,
+                                "pressure": 1015,
+                                "sea_level": 1015,
+                                "grnd_level": 1015,
+                                "humidity": 79,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 500,
+                                        "main": "Rain",
+                                        "description": "light rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 4.11,
+                                "deg": 156,
+                                "gust": 10.58
+                        },
+                        "visibility": 10000,
+                        "pop": 0.31,
+                        "rain": {
+                                "3h": 0.19
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-23 00:00:00"
+                },
+                {
+                        "dt": 1674442800,
+                        "main": {
+                                "temp": 280.42,
+                                "feels_like": 277.8,
+                                "temp_min": 280.42,
+                                "temp_max": 280.42,
+                                "pressure": 1010,
+                                "sea_level": 1010,
+                                "grnd_level": 1010,
+                                "humidity": 89,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 500,
+                                        "main": "Rain",
+                                        "description": "light rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 3.99,
+                                "deg": 117,
+                                "gust": 11.1
+                        },
+                        "visibility": 10000,
+                        "pop": 0.99,
+                        "rain": {
+                                "3h": 1.83
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-23 03:00:00"
+                },
+                {
+                        "dt": 1674453600,
+                        "main": {
+                                "temp": 281.63,
+                                "feels_like": 278.45,
+                                "temp_min": 281.63,
+                                "temp_max": 281.63,
+                                "pressure": 1002,
+                                "sea_level": 1002,
+                                "grnd_level": 1001,
+                                "humidity": 98,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 501,
+                                        "main": "Rain",
+                                        "description": "moderate rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 6.04,
+                                "deg": 104,
+                                "gust": 13.48
+                        },
+                        "visibility": 1721,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 10
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-23 06:00:00"
+                },
+                {
+                        "dt": 1674464400,
+                        "main": {
+                                "temp": 281.58,
+                                "feels_like": 280.85,
+                                "temp_min": 281.58,
+                                "temp_max": 281.58,
+                                "pressure": 996,
+                                "sea_level": 996,
+                                "grnd_level": 996,
+                                "humidity": 99,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 502,
+                                        "main": "Rain",
+                                        "description": "heavy intensity rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 1.65,
+                                "deg": 292,
+                                "gust": 2.31
+                        },
+                        "visibility": 280,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 13.23
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-23 09:00:00"
+                },
+                {
+                        "dt": 1674475200,
+                        "main": {
+                                "temp": 280.73,
+                                "feels_like": 277.26,
+                                "temp_min": 280.73,
+                                "temp_max": 280.73,
+                                "pressure": 996,
+                                "sea_level": 996,
+                                "grnd_level": 996,
+                                "humidity": 91,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 500,
+                                        "main": "Rain",
+                                        "description": "light rain",
+                                        "icon": "10n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 100
+                        },
+                        "wind": {
+                                "speed": 6.16,
+                                "deg": 282,
+                                "gust": 12.02
+                        },
+                        "visibility": 10000,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 0.65
+                        },
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-23 12:00:00"
+                },
+                {
+                        "dt": 1674486000,
+                        "main": {
+                                "temp": 279.48,
+                                "feels_like": 275.08,
+                                "temp_min": 279.48,
+                                "temp_max": 279.48,
+                                "pressure": 1001,
+                                "sea_level": 1001,
+                                "grnd_level": 1000,
+                                "humidity": 76,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 500,
+                                        "main": "Rain",
+                                        "description": "light rain",
+                                        "icon": "10d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 98
+                        },
+                        "wind": {
+                                "speed": 7.92,
+                                "deg": 290,
+                                "gust": 14.02
+                        },
+                        "visibility": 10000,
+                        "pop": 1,
+                        "rain": {
+                                "3h": 0.61
+                        },
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-23 15:00:00"
+                },
+                {
+                        "dt": 1674496800,
+                        "main": {
+                                "temp": 279.7,
+                                "feels_like": 274.95,
+                                "temp_min": 279.7,
+                                "temp_max": 279.7,
+                                "pressure": 1005,
+                                "sea_level": 1005,
+                                "grnd_level": 1004,
+                                "humidity": 60,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 804,
+                                        "main": "Clouds",
+                                        "description": "overcast clouds",
+                                        "icon": "04d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 99
+                        },
+                        "wind": {
+                                "speed": 9.37,
+                                "deg": 296,
+                                "gust": 16.23
+                        },
+                        "visibility": 10000,
+                        "pop": 0.84,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-23 18:00:00"
+                },
+                {
+                        "dt": 1674507600,
+                        "main": {
+                                "temp": 279.71,
+                                "feels_like": 275.19,
+                                "temp_min": 279.71,
+                                "temp_max": 279.71,
+                                "pressure": 1010,
+                                "sea_level": 1010,
+                                "grnd_level": 1010,
+                                "humidity": 55,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 802,
+                                        "main": "Clouds",
+                                        "description": "scattered clouds",
+                                        "icon": "03d"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 35
+                        },
+                        "wind": {
+                                "speed": 8.55,
+                                "deg": 303,
+                                "gust": 15.24
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "d"
+                        },
+                        "dt_txt": "2023-01-23 21:00:00"
+                },
+                {
+                        "dt": 1674518400,
+                        "main": {
+                                "temp": 277.2,
+                                "feels_like": 272.35,
+                                "temp_min": 277.2,
+                                "temp_max": 277.2,
+                                "pressure": 1016,
+                                "sea_level": 1016,
+                                "grnd_level": 1016,
+                                "humidity": 61,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 801,
+                                        "main": "Clouds",
+                                        "description": "few clouds",
+                                        "icon": "02n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 21
+                        },
+                        "wind": {
+                                "speed": 7.24,
+                                "deg": 305,
+                                "gust": 13.58
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-24 00:00:00"
+                },
+                {
+                        "dt": 1674529200,
+                        "main": {
+                                "temp": 276.42,
+                                "feels_like": 271.73,
+                                "temp_min": 276.42,
+                                "temp_max": 276.42,
+                                "pressure": 1020,
+                                "sea_level": 1020,
+                                "grnd_level": 1019,
+                                "humidity": 59,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 800,
+                                        "main": "Clear",
+                                        "description": "clear sky",
+                                        "icon": "01n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 7
+                        },
+                        "wind": {
+                                "speed": 6.27,
+                                "deg": 306,
+                                "gust": 11.37
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-24 03:00:00"
+                },
+                {
+                        "dt": 1674540000,
+                        "main": {
+                                "temp": 275.25,
+                                "feels_like": 270.73,
+                                "temp_min": 275.25,
+                                "temp_max": 275.25,
+                                "pressure": 1022,
+                                "sea_level": 1022,
+                                "grnd_level": 1021,
+                                "humidity": 59,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 800,
+                                        "main": "Clear",
+                                        "description": "clear sky",
+                                        "icon": "01n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 9
+                        },
+                        "wind": {
+                                "speed": 5.25,
+                                "deg": 303,
+                                "gust": 10.32
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-24 06:00:00"
+                },
+                {
+                        "dt": 1674550800,
+                        "main": {
+                                "temp": 274.42,
+                                "feels_like": 270.07,
+                                "temp_min": 274.42,
+                                "temp_max": 274.42,
+                                "pressure": 1023,
+                                "sea_level": 1023,
+                                "grnd_level": 1023,
+                                "humidity": 63,
+                                "temp_kf": 0
+                        },
+                        "weather": [
+                                {
+                                        "id": 802,
+                                        "main": "Clouds",
+                                        "description": "scattered clouds",
+                                        "icon": "03n"
+                                }
+                        ],
+                        "clouds": {
+                                "all": 44
+                        },
+                        "wind": {
+                                "speed": 4.56,
+                                "deg": 310,
+                                "gust": 9.8
+                        },
+                        "visibility": 10000,
+                        "pop": 0,
+                        "sys": {
+                                "pod": "n"
+                        },
+                        "dt_txt": "2023-01-24 09:00:00"
+                }
+        ],
+        "city": {
+                "id": 5128581,
+                "name": "New York",
+                "coord": {
+                        "lat": 40.7143,
+                        "lon": -74.006
+                },
+                "country": "US",
+                "population": 8175133,
+                "timezone": -18000,
+                "sunrise": 1674130563,
+                "sunset": 1674165416
+        }
+}
