@@ -21,7 +21,7 @@ setInterval(getTime,1000)
 srchBtn.addEventListener('click', async () => {
   let city = document.querySelector("input");
   const response = await fetch(
-    `http://api.openweathermap.org/data/2.5/forecast?q=${city.value}&id=524901&appid=${apikey}`
+    `https://api.openweathermap.org/data/2.5/forecast?q=${city.value}&id=524901&appid=${apikey}`
   );
 
   const data = await response.json();
