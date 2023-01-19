@@ -97,11 +97,21 @@ main{
     transform: scale(0.9);
 }
 
+.header button:focus{
+    border: 2px solid rgba(0, 128, 0, 0.531);
+    background: white;
+    color: rgba(0, 128, 0, 0.531);
+}
+
 
 @media (max-width: 767px) {
     .container *{
         flex-direction: column;
         width: 100%;
     
+    }
+
+    .header button{
+        width: 100%;
     }
 }
